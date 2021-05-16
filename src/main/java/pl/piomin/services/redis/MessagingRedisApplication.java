@@ -14,7 +14,7 @@ import org.springframework.data.redis.listener.RedisMessageListenerContainer;
 import org.springframework.data.redis.listener.adapter.MessageListenerAdapter;
 
 import java.util.concurrent.atomic.AtomicInteger;
-
+//gs-messaging-redis-main project
 @SpringBootApplication
 public class MessagingRedisApplication {
 
